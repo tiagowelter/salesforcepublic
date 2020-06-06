@@ -1,3 +1,13 @@
+/**
+ * TestVerifyDate.
+ *
+ * class test for VerifyDate. Trailhead challenge
+ *
+ * @author Tiago Welter - tiagowelter@gmail.com
+ * @since 06.06.2019
+ *
+ * @see Classes / VerifyDate
+ */
 @isTest
 public class TestVerifyDate {
     
